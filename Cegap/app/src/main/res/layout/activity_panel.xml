@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/message"
+    tools:context=".Panel">
+
+    <Button
+        android:id="@+id/mio"
+        android:layout_width="fill_parent"
+        android:layout_height="86dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/round"
+        android:text="MESSAGES"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/presentstaff" />
+
+    <Button
+        android:id="@+id/appintment"
+        android:layout_width="fill_parent"
+        android:layout_height="86dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="8dp"
+        android:background="@drawable/round"
+        android:text="APPOINTMENT"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/mio"
+        app:layout_constraintVertical_bias="0.034" />
+
+    <Button
+        android:id="@+id/presentstaff"
+        android:layout_width="fill_parent"
+        android:layout_height="86dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/round"
+        android:text="PRESENT STAFF"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/schedule" />
+
+    <Button
+        android:id="@+id/attendance"
+        android:layout_width="fill_parent"
+        android:layout_height="86dp"
+        android:layout_marginTop="100dp"
+        android:background="@drawable/round"
+        android:text="ATTENDANCE"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/schedule"
+        android:layout_width="fill_parent"
+        android:layout_height="86dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/round"
+        android:text="SCHEDULE"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/attendance" />
+
+    <Button
+        android:id="@+id/signout_btn"
+        android:layout_width="140dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/custom_button"
+        android:text="Sign Out"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.85"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.023" />
+
+    <Button
+        android:id="@+id/myprofile2"
+        android:layout_width="140dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/custom_button"
+        android:text="My Profile"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.049"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.023" />
+</androidx.constraintlayout.widget.ConstraintLayout>

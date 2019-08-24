@@ -1,0 +1,244 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:2:1-45:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\a38273df2abc3ef0596e0cdf5a1df30f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\6d20654a9d4655f7b891c3689ee15d9d\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\ccb29b01e4ccb2c7332efb3b2d1cfed5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\42ffa806a72a9c6bb90d1418d4eeb335\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\7b0cc65e51fb2cff23bcf6f337bc0a59\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\24faf967f3a2ad846e9e6d1c6072097b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\79dc9d354c945b07ebb1f6523c4b0b5f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\4168c1517efac4a57817dc41750fcf89\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\e8bdaaafeec19da0f472374ca3b2484b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\3787d24caa6f2bddfde27545f6685d90\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\1848cd72074236610e39ad77e841002e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\c933b8dd536cc7b3a555c3edd9e786ab\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\1f3b09130d1bc8aa16fa7efeb435ea4f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\5236fee46a69f8321c21be05889066fe\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\eb7264cba2c1813ab7ddde1a7ca5f2ff\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\43c1c982dbe0f841634732c468499e17\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\40daafccbffa48caa869e52878e9d77f\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\d10a7d4a393530b7ac8487b4441a6a2e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\a0ef2d6c84f794a771049cd47bada408\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\0f5ef19252d489b3480bf976201c17ee\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\b8cd711dcf1dcc08795472ff828c719f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\e8754e58ea50d5994a743319b8652372\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\4f2ffaa58dca1e2929221858d3dfdb21\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\d108a386dc348b6b4d55d1906ae6902c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\5da036c48df6fa503fb80fc605c7cbd3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\10d4441d805a6a46bfe6600fdcabb181\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\9a4b57c19a18b0c75d91fc70728a73fb\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:2:1-45:12
+	package
+		ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:2:1-45:12
+		INJECTED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:2:1-45:12
+		INJECTED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:7:5-43:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\6d20654a9d4655f7b891c3689ee15d9d\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\6d20654a9d4655f7b891c3689ee15d9d\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\43c1c982dbe0f841634732c468499e17\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\43c1c982dbe0f841634732c468499e17\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\40daafccbffa48caa869e52878e9d77f\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\40daafccbffa48caa869e52878e9d77f\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\43c1c982dbe0f841634732c468499e17\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:13:9-40
+	android:usesCleartextTraffic
+		ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:14:9-44
+activity#com.example.cegap.ReplyMessage
+ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:15:9-59
+	android:name
+		ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:15:19-47
+activity#com.example.cegap.DeleteSchedule
+ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:16:9-52
+	android:name
+		ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:16:19-49
+activity#com.example.cegap.Main2Activity
+ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:17:9-51
+	android:name
+		ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:17:19-48
+activity#com.example.cegap.SeeSchedule
+ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:18:9-49
+	android:name
+		ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:18:19-46
+activity#com.example.cegap.AppointmentInformation
+ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:19:9-60
+	android:name
+		ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:19:19-57
+activity#com.example.cegap.RecieverAppointment
+ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:20:9-57
+	android:name
+		ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:20:19-54
+activity#com.example.cegap.SenderAppointment
+ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:21:9-55
+	android:name
+		ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:21:19-52
+activity#com.example.cegap.SetAppointment
+ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:22:9-52
+	android:name
+		ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:22:19-49
+activity#com.example.cegap.SearchAppointment
+ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:23:9-55
+	android:name
+		ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:23:19-52
+activity#com.example.cegap.Userdata
+ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:24:9-46
+	android:name
+		ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:24:19-43
+activity#com.example.cegap.Singlemessage
+ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:25:9-51
+	android:name
+		ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:25:19-48
+activity#com.example.cegap.RecieveMessage
+ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:26:9-52
+	android:name
+		ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:26:19-49
+activity#com.example.cegap.Myprofile
+ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:27:9-47
+	android:name
+		ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:27:19-44
+activity#com.example.cegap.Adminpanel
+ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:28:9-48
+	android:name
+		ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:28:19-45
+activity#com.example.cegap.Attendence
+ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:29:9-48
+	android:name
+		ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:29:19-45
+activity#com.example.cegap.Appointment
+ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:30:9-49
+	android:name
+		ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:30:19-46
+activity#com.example.cegap.Presentstaff
+ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:31:9-50
+	android:name
+		ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:31:19-47
+activity#com.example.cegap.Schedule
+ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:32:9-46
+	android:name
+		ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:32:19-43
+activity#com.example.cegap.Mio
+ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:33:9-41
+	android:name
+		ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:33:19-38
+activity#com.example.cegap.Panel
+ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:34:9-43
+	android:name
+		ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:34:19-40
+activity#com.example.cegap.Signup
+ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:35:9-44
+	android:name
+		ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:35:19-41
+activity#com.example.cegap.MainActivity
+ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:36:9-42:20
+	android:name
+		ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:36:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:37:13-41:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:38:17-69
+	android:name
+		ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml:40:27-74
+uses-sdk
+INJECTED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\a38273df2abc3ef0596e0cdf5a1df30f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\a38273df2abc3ef0596e0cdf5a1df30f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\6d20654a9d4655f7b891c3689ee15d9d\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\6d20654a9d4655f7b891c3689ee15d9d\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\ccb29b01e4ccb2c7332efb3b2d1cfed5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\ccb29b01e4ccb2c7332efb3b2d1cfed5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\42ffa806a72a9c6bb90d1418d4eeb335\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\42ffa806a72a9c6bb90d1418d4eeb335\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\7b0cc65e51fb2cff23bcf6f337bc0a59\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\7b0cc65e51fb2cff23bcf6f337bc0a59\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\24faf967f3a2ad846e9e6d1c6072097b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\24faf967f3a2ad846e9e6d1c6072097b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\79dc9d354c945b07ebb1f6523c4b0b5f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\79dc9d354c945b07ebb1f6523c4b0b5f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\4168c1517efac4a57817dc41750fcf89\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\4168c1517efac4a57817dc41750fcf89\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\e8bdaaafeec19da0f472374ca3b2484b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\e8bdaaafeec19da0f472374ca3b2484b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\3787d24caa6f2bddfde27545f6685d90\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\3787d24caa6f2bddfde27545f6685d90\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\1848cd72074236610e39ad77e841002e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\1848cd72074236610e39ad77e841002e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\c933b8dd536cc7b3a555c3edd9e786ab\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\c933b8dd536cc7b3a555c3edd9e786ab\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\1f3b09130d1bc8aa16fa7efeb435ea4f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\1f3b09130d1bc8aa16fa7efeb435ea4f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\5236fee46a69f8321c21be05889066fe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\5236fee46a69f8321c21be05889066fe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\eb7264cba2c1813ab7ddde1a7ca5f2ff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\eb7264cba2c1813ab7ddde1a7ca5f2ff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\43c1c982dbe0f841634732c468499e17\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\43c1c982dbe0f841634732c468499e17\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\40daafccbffa48caa869e52878e9d77f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\40daafccbffa48caa869e52878e9d77f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\d10a7d4a393530b7ac8487b4441a6a2e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\d10a7d4a393530b7ac8487b4441a6a2e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\a0ef2d6c84f794a771049cd47bada408\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\a0ef2d6c84f794a771049cd47bada408\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\0f5ef19252d489b3480bf976201c17ee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\0f5ef19252d489b3480bf976201c17ee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\b8cd711dcf1dcc08795472ff828c719f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\b8cd711dcf1dcc08795472ff828c719f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\e8754e58ea50d5994a743319b8652372\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\e8754e58ea50d5994a743319b8652372\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\4f2ffaa58dca1e2929221858d3dfdb21\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\4f2ffaa58dca1e2929221858d3dfdb21\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\d108a386dc348b6b4d55d1906ae6902c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\d108a386dc348b6b4d55d1906ae6902c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\5da036c48df6fa503fb80fc605c7cbd3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\5da036c48df6fa503fb80fc605c7cbd3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\10d4441d805a6a46bfe6600fdcabb181\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\10d4441d805a6a46bfe6600fdcabb181\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\9a4b57c19a18b0c75d91fc70728a73fb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\9a4b57c19a18b0c75d91fc70728a73fb\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hp\Desktop\final code\finalCegap (1)\Cegap\app\src\main\AndroidManifest.xml
